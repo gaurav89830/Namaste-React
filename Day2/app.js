@@ -1,6 +1,5 @@
 
 /**
- * 
  * PARCER : 
  * HMR - HOT MODULE REPLACEMENT
  * File Watcher Algo - C++ ( checks the changes in files)
@@ -10,7 +9,6 @@
  * caching while development
  * HTTPS on dev
  * consistent hashing algos
- * 
  */
 
 
